@@ -2,7 +2,7 @@
   --app-bg: var(--main-alt);
   --accent-color: #133DFF;
   /* #133DFF */
-  --accent-rgb: rgba(39,147,230,0.3);
+  --accent-rgb: #133DFF;
   --accent-rgb-text-color: #fff;
   --accent-button-action: #fff;
   --accent-button-action-hover: 0.06;
@@ -37,7 +37,7 @@
   --sidebar-panel-color: #111114;
   --sidebar-text-color: #fff;
   --spotify-color: #1db954;
-  --stream-color: #593695;
+  --stream-color: #133DFF;
   --stream-flash: 89,54,149;
   --xbox-color: #107c10;
   --input-color: #272a2e;
@@ -68,7 +68,7 @@
   text-shadow: none; }
 
 * {
-  font-family: 'Product Sans', sans-serif !important; }
+  font-family: 'mononoki', sans-serif !important; }
 
 /*
  *
