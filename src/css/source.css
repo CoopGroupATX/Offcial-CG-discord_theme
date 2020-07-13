@@ -1,7 +1,7 @@
 :root {
   --app-bg: var(--main-alt);
-  --accent-color: #3f51b5;
-  /* #3f51b5 */
+  --accent-color: #133DFF;
+  /* #133DFF */
   --accent-rgb: rgba(39,147,230,0.3);
   --accent-rgb-text-color: #fff;
   --accent-button-action: #fff;
